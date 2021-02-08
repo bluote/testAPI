@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Comment": {
+  "Comment1": {
     "body": "string",
     "post": "Post"
   }
