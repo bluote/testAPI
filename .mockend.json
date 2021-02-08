@@ -9,7 +9,7 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
+  },
   "Comment": {
     "name": "string"
   }
